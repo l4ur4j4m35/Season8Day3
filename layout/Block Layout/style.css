@@ -1,0 +1,53 @@
+body
+{
+	background: #f2d8a7;
+	margin: 0px;
+}
+
+header 
+{
+	min-height: 200px;
+	width: 960px;
+	background: #458C6B;
+	margin: auto;
+
+}
+
+nav
+{
+	min-height: 70px;
+	width: 960px;background: #4e3646;
+	margin: auto;
+}
+
+section
+{
+	width: 960px;
+	background: #ffffff;
+	margin: auto;
+	overflow: hidden;
+}
+
+article
+{
+	min-height: 600px;
+	width: 630px;
+	background: #e6b375;
+	float: left;
+}
+
+aside
+{
+	min-height: 600px;
+	width: 330px;
+	background: #e6e375;
+	float: right;
+}
+
+footer
+{
+	min-height: 80px;
+	width: 960px;
+	background: #454f6B;
+	margin: auto;
+}

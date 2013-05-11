@@ -161,6 +161,42 @@ footer
     color: #000;
 }
 
+body
+{
+    background: url(../img/bg.gif);
+
+}
+
+header
+{
+    background: url(../img/banner.jpg)
+}
+
+nav ul
+{
+    background: url(../img/nav_bar.jpg);
+}
+
+nav ul li a
+{
+    background: url(../img/nav.jpg) 0px 0px;
+}
+
+nav ul li a:hover
+{
+    background-position: 0px -40px;
+}
+
+nav ul li a:active
+{
+background-position: 0px -80px;
+}
+
+#sidebar li
+{
+    list-style-image: url(../img/bullet.gif);
+}
+
 /*
     Images
 */

@@ -1,0 +1,17 @@
+ul
+{
+	list-style-type: none;
+
+}
+
+li
+{
+	float: left;
+} 
+
+a 
+{
+	border:  6px solid #000;
+	display: block;
+	padding: 10px;
+}
